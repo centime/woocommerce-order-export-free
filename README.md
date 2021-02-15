@@ -23,7 +23,7 @@ Note: this is nothing but a quick and dirty javascript snippet, but as long as i
 
 ## Find it useful ? Buy me a beer !
 
-[Buy Vincent a beer](https://paypal.me/VincentDelaunay)
+[Buy Vincent a beer](https://paypal.me/VincentDelaunay/5)
 
 This code was created as a favor to [la Pause locale](https://boutique.lapauseduperche.fr/)
 

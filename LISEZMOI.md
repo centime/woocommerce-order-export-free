@@ -22,7 +22,7 @@ Note: ce n'est qu'un petit code javascript fait à la va-vite, mais tant que ça
 
 ## Ca t'est utile ? Paye-moi une bière !
 
-[Payer une bière à Vincent](https://paypal.me/VincentDelaunay)
+[Payer une bière à Vincent](https://paypal.me/VincentDelaunay/5)
 
 
 Ce code a été créé pour dépanner [la Pause locale](https://boutique.lapauseduperche.fr/)
